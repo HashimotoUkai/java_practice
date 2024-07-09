@@ -7,11 +7,11 @@ public class Test {
 			
 			for (int j = 1; j <= 9; j++) {
 				
-				int m = i*j;
+				int m = i * j;
 				
 				System.out.print(" ");
 				
-				if(10 > m) {
+				if (10 > m) {
 					System.out.print("");
 				}
 				System.out.print(m);
