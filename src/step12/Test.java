@@ -8,11 +8,11 @@ public class Test {
             Cat cat = new Cat("猫ちゃん");
             cat.sound();
             
-            Dog dog = new Dog();
+            Dog dog = new Dog("犬");
             dog.sound();
             
             
-            Lion  lion = new Lion("トライアル");
+            Lion  lion = new Lion("ライオン");
             lion.sound();
         }
 
